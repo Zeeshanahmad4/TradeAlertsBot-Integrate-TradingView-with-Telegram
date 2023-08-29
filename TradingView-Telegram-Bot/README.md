@@ -38,18 +38,17 @@ TradeAlertsBot is an integration tool designed to bridge alerts from TradingView
 
    Clone this repository:
 
-    bash
    git clone https://github.com/your_username/TradeAlertsBot.git
 
    Navigate to the project directory:
 
-   bash
    cd TradeAlertsBot
 
    Set up environment variables:
 
    TELEGRAM_BOT_TOKEN: Your Telegram bot token.
    TRADINGVIEW_API_KEY: Your TradingView API key.
+  
    Run the setup script:
 
    bash
