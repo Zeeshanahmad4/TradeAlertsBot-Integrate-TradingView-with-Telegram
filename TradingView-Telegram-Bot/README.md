@@ -18,7 +18,7 @@ TradeAlertsBot is an integration tool designed to bridge alerts from TradingView
 - **Alert History**: Maintain and retrieve a history of past alerts.
 
 
-- Usage Examples 🚀
+  Usage Examples 🚀
 
 - **Receiving an Alert**:
     
