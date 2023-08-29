@@ -18,46 +18,44 @@ TradeAlertsBot is an integration tool designed to bridge alerts from TradingView
 - **Alert History**: Maintain and retrieve a history of past alerts.
 
 
-  Usage Examples 🚀
+# Usage Examples 🚀
 
 - **Receiving an Alert**:
-    
-    python
-    
-    `from services import tradingview, telegram
+    ```python
+    from services import tradingview, telegram
     
     # Parse the incoming alert from TradingView
     alert_data = tradingview.parse_alert(incoming_data)
     
     # Send the parsed alert to Telegram
-    telegram.send_telegram_message(chat_id, alert_data, TELEGRAM_BOT_TOKEN)`
+    telegram.send_telegram_message(chat_id, alert_data, TELEGRAM_BOT_TOKEN)
+    ```
 
+# Setup and Installation Instructions 🛠️
 
+1. **Clone this repository**:
+    ```bash
+    git clone https://github.com/your_username/TradeAlertsBot.git
+    ```
 
-    Setup and Installation Instructions 🛠️
+2. **Navigate to the project directory**:
+    ```bash
+    cd TradeAlertsBot
+    ```
 
-   Clone this repository:
+3. **Set up environment variables**:
+    - `TELEGRAM_BOT_TOKEN`: Your Telegram bot token.
+    - `TRADINGVIEW_API_KEY`: Your TradingView API key.
 
-   git clone https://github.com/your_username/TradeAlertsBot.git
+4. **Run the setup script**:
+    ```bash
+    scripts/setup.bat
+    ```
 
-   Navigate to the project directory:
-
-   cd TradeAlertsBot
-
-   Set up environment variables:
-
-   TELEGRAM_BOT_TOKEN: Your Telegram bot token.
-   TRADINGVIEW_API_KEY: Your TradingView API key.
-  
-   Run the setup script:
-
-   bash
-   scripts/setup.bat
-
-   Start the bot:
-
-   bash
-   python main.py
+5. **Start the bot**:
+    ```bash
+    python main.py
+    ```
 
 
 Troubleshooting Tips 🔍
