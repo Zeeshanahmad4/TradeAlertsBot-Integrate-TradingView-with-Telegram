@@ -10,14 +10,12 @@ TradeAlertsBot is an integration tool designed to bridge alerts from TradingView
 - **Customizable Alerts**: Customize the content of alerts to your preference.
 - **Secure**: Uses environment variables to keep sensitive data like API keys safe.
 
-
 **🔜 To-Do Features**:
 
 - **Interactive Responses**: Allow users to respond to alerts and get additional information.
 - **Filter Alerts**: Add capability to filter out specific types of alerts.
 - **Multi-Channel Support**: Send alerts to multiple Telegram channels or groups.
 - **Alert History**: Maintain and retrieve a history of past alerts.
-
 
 
 - Usage Examples 🚀
@@ -36,31 +34,31 @@ TradeAlertsBot is an integration tool designed to bridge alerts from TradingView
 
 
 
-Setup and Installation Instructions 🛠️
+    Setup and Installation Instructions 🛠️
 
-Clone this repository:
+   Clone this repository:
 
-bash
-git clone https://github.com/your_username/TradeAlertsBot.git
+   bash
+   git clone https://github.com/your_username/TradeAlertsBot.git
 
-Navigate to the project directory:
+   Navigate to the project directory:
 
-bash
-cd TradeAlertsBot
+   bash
+   cd TradeAlertsBot
 
-Set up environment variables:
+   Set up environment variables:
 
-TELEGRAM_BOT_TOKEN: Your Telegram bot token.
-TRADINGVIEW_API_KEY: Your TradingView API key.
-Run the setup script:
+   TELEGRAM_BOT_TOKEN: Your Telegram bot token.
+   TRADINGVIEW_API_KEY: Your TradingView API key.
+   Run the setup script:
 
-bash
-scripts/setup.bat
+   bash
+   scripts/setup.bat
 
-Start the bot:
+   Start the bot:
 
-bash
-python main.py
+   bash
+   python main.py
 
 
 Troubleshooting Tips 🔍
