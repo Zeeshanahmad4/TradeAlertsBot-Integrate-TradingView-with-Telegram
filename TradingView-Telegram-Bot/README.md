@@ -19,15 +19,17 @@ TradeAlertsBot is an integration tool designed to bridge alerts from TradingView
 - **Alert History**: Maintain and retrieve a history of past alerts.
 
 
+
 - Usage Examples 🚀
 
-- from services import tradingview, telegram
+from services import tradingview, telegram
 
 # Parse the incoming alert from TradingView
 alert_data = tradingview.parse_alert(incoming_data)
 
 # Send the parsed alert to Telegram
 telegram.send_telegram_message(chat_id, alert_data, TELEGRAM_BOT_TOKEN)
+
 
 
 Setup and Installation Instructions 🛠️
