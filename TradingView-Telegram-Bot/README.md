@@ -1,7 +1,6 @@
 TradeAlertsBot: Integrate TradingView with Telegram 🚀
 
 Project Overview 🌐
-
 TradeAlertsBot is an integration tool designed to bridge alerts from TradingView with Telegram. With this bot, users can seamlessly receive TradingView alerts directly in their preferred Telegram chat, making trading decisions faster and more convenient. 📈🔔
 
 Features ✨
