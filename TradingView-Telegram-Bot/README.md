@@ -38,7 +38,7 @@ TradeAlertsBot is an integration tool designed to bridge alerts from TradingView
 
    Clone this repository:
 
-   bash
+    bash
    git clone https://github.com/your_username/TradeAlertsBot.git
 
    Navigate to the project directory:
