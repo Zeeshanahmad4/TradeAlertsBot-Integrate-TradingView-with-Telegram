@@ -7,16 +7,16 @@ Project Overview 🌐
 
 Features ✨
 
-Real-time Alerts: Get TradingView alerts in your Telegram chat as they happen.
-Customizable Alerts: Customize the content of alerts to your preference.
-Secure: Uses environment variables to keep sensitive data like API keys safe.
+- **Real-time Alerts**: Get TradingView alerts in your Telegram chat as they happen.
+- **Customizable Alerts**: Customize the content of alerts to your preference.
+- **Secure**: Uses environment variables to keep sensitive data like API keys safe.
 
 **🔜 To-Do Features**:
 
-Interactive Responses: Allow users to respond to alerts and get additional information.
-Filter Alerts: Add capability to filter out specific types of alerts.
-Multi-Channel Support: Send alerts to multiple Telegram channels or groups.
-Alert History: Maintain and retrieve a history of past alerts.
+- **Interactive Responses**: Allow users to respond to alerts and get additional information.
+- **Filter Alerts**: Add capability to filter out specific types of alerts.
+- **Multi-Channel Support**: Send alerts to multiple Telegram channels or groups.
+- **Alert History**: Maintain and retrieve a history of past alerts.
 
 # Usage Examples 🚀
 
@@ -60,8 +60,14 @@ Alert History: Maintain and retrieve a history of past alerts.
 
 Troubleshooting Tips 🔍
 
-Missing API Key: Ensure both TELEGRAM_BOT_TOKEN and TRADINGVIEW_API_KEY environment variables are set. Network Issues: Check your internet connection and ensure the bot has network access. Dependencies: Ensure all Python dependencies are installed and up to date.
+- **Missing API Key**: Ensure both `TELEGRAM_BOT_TOKEN` and `TRADINGVIEW_API_KEY` environment variables are set.
+- **Network Issues**: Check your internet connection and ensure the bot has network access.
+- **Dependencies**: Ensure all Python dependencies are installed and up to date.
 
 Contribution Guidelines 🤝
 
-Fork the repository. Create a new branch for each feature or fix. Write clear and detailed commit messages. Ensure code follows PEP8 guidelines. Open a pull request and provide a detailed description of the changes. 
+- Fork the repository.
+- Create a new branch for each feature or fix.
+- Write clear and detailed commit messages.
+- Ensure code follows PEP8 guidelines.
+- Open a pull request and provide a detailed description of the changes.
