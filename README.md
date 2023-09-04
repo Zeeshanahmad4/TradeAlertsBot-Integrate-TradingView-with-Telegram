@@ -28,6 +28,37 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+# Table of Contents
+
+- [Project Overview 🌐](#project-overview-🌐)
+- [Features ✨](#features-✨)
+  - [Real-time Alerts](#real-time-alerts)
+  - [Customizable Alerts](#customizable-alerts)
+  - [Secure](#secure)
+  - [To-Do Features](#🔜-to-do-features)
+    - [Interactive Responses](#interactive-responses)
+    - [Filter Alerts](#filter-alerts)
+    - [Multi-Channel Support](#multi-channel-support)
+    - [Alert History](#alert-history)
+- [Usage Examples 🚀](#usage-examples-🚀)
+  - [Receiving an Alert](#receiving-an-alert)
+- [Setup and Installation Instructions 🛠️](#setup-and-installation-instructions-🛠️)
+  - [Clone this repository](#clone-this-repository)
+  - [Navigate to the project directory](#navigate-to-the-project-directory)
+  - [Set up environment variables](#set-up-environment-variables)
+  - [Run the setup script](#run-the-setup-script)
+  - [Start the bot](#start-the-bot)
+- [Troubleshooting Tips 🔍](#troubleshooting-tips-🔍)
+  - [Missing API Key](#missing-api-key)
+  - [Network Issues](#network-issues)
+  - [Dependencies](#dependencies)
+- [Contribution Guidelines 🤝](#contribution-guidelines-🤝)
+  - [Fork the repository](#fork-the-repository)
+  - [Create a new branch](#create-a-new-branch)
+  - [Write clear commit messages](#write-clear-and-detailed-commit-messages)
+  - [Follow PEP8 guidelines](#ensure-code-follows-pep8-guidelines)
+  - [Open a pull request](#open-a-pull-request)
+
 
 
 ## Project Overview 🌐 
